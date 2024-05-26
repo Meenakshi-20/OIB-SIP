@@ -1,0 +1,21 @@
+body{
+    margin-top: 60px;
+}
+ @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,400italic,600italic,700,700italic,800);
+.list-item{
+  padding: 30px;
+}
+.thumbnail{
+  background-color: #4b4949;
+  border: none;
+  padding-bottom: 20px;
+}
+.jumbotron{
+    font-size: 20px;
+    top: 1000px;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #000000;
+    color: rgb(253, 253, 251);
+}
